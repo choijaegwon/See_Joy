@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "89241041150",
+    "project_id": "netflix-bfb57",
+    "storage_bucket": "netflix-bfb57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89241041150:android:bd29f31078011a50f90daf",
+        "android_client_info": {
+          "package_name": "com.example.see_joy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89241041150-gpmo3e6hodr89o3oeb6v5j519pt8567f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.see_joy",
+            "certificate_hash": "a2cdd22f31124d26570e0097c3b16cab0685127b"
+          }
+        },
+        {
+          "client_id": "89241041150-hbpfv98v4vfq47r5201fp9ph0g4hthsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUzmZIK6AiozgYdg75AgupiQsNfYy0W3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89241041150-hbpfv98v4vfq47r5201fp9ph0g4hthsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
